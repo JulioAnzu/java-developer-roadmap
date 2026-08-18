@@ -8,42 +8,27 @@ This repository contains my notes, exercises, examples, and projects as I progre
 
 ## 📚 Roadmap
 
-- [x] Java Fundamentals
-- [ ] Variables & Data Types
-- [ ] Control Flow
-- [ ] Methods
-- [ ] Object-Oriented Programming
-- [ ] Exception Handling
-- [ ] Collections
-- [ ] Generics
-- [ ] File Handling
-- [ ] Streams & Lambdas
-- [ ] Data Structures
-- [ ] Algorithms
-- [ ] SQL
-- [ ] Git & GitHub
-- [ ] Maven
-- [ ] Spring Framework
-- [ ] Spring Boot
-- [ ] REST APIs
-- [ ] Testing
-- [ ] Backend Projects
-
----
-
-# ☕ Java Fundamentals
-
-## What is Java?
-
-Java is a high-level, object-oriented programming language designed to be portable across different platforms.
-
-One of its main principles is:
-
-> **Write Once, Run Anywhere (WORA).**
-
-Java code is compiled into **bytecode**, which can run on any system that has a compatible **Java Virtual Machine (JVM)**.
-
-Java is widely used for backend development, enterprise applications, APIs, Android development, and many other types of software.
+-  Java Fundamentals
+-  Variables & Data Types
+-  Operators
+-  Control Flow
+-  Methods
+-  Object-Oriented Programming
+-  Exception Handling
+-  Collections
+-  Generics
+-  File Handling
+-  Streams & Lambdas
+-  Data Structures
+-  Algorithms
+-  SQL
+-  Git & GitHub
+-  Maven
+-  Spring Framework
+-  Spring Boot
+-  REST APIs
+-  Testing
+-  Backend Projects
 
 ---
 
@@ -66,17 +51,27 @@ The idea is not only to learn Java syntax, but to progressively develop the skil
 
 ## 📈 Progress
 
-### Java Fundamentals
-
-- [x] What is Java?
-- [ ] JDK, JRE & JVM
-- [ ] First Java Program
-- [ ] Variables
-- [ ] Data Types
+- [x] Java Fundamentals
+- [ ] Variables & Data Types
 - [ ] Operators
 - [ ] Control Flow
 - [ ] Methods
 - [ ] Object-Oriented Programming
+- [ ] Exception Handling
+- [ ] Collections
+- [ ] Generics
+- [ ] File Handling
+- [ ] Streams & Lambdas
+- [ ] Data Structures
+- [ ] Algorithms
+- [ ] SQL
+- [ ] Git & GitHub
+- [ ] Maven
+- [ ] Spring Framework
+- [ ] Spring Boot
+- [ ] REST APIs
+- [ ] Testing
+- [ ] Backend Projects
 
 ---
 
@@ -91,7 +86,7 @@ The idea is not only to learn Java syntax, but to progressively develop the skil
 
 ## 📌 Status
 
-**Currently learning:** Java Fundamentals
+**Currently learning:** Variables and Data Types
 
 **Roadmap:** Java Developer
 
