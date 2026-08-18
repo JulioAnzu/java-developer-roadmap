@@ -155,7 +155,7 @@ A traditional first program when learning a programming language is:
 
 ```java
 public class Main {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Hello World");
     }
 } 
