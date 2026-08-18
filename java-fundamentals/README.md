@@ -166,4 +166,5 @@ When executed, the program prints:
 
 At this stage, the goal is simply to understand how to create and execute a basic Java program.
 
-The structure of **public static void main(String[] args)** will be studied in more detail later.
+The structure of **public static void main(String[] args)** 
+> 💡 **JAAC Note:** Inside the `examples/` directory, you will find the `FirstProgram.java` file. In that file, I modified the output message to a custom text ("La bebesita bebelín") to test and verify that our compiler execution works perfectly. Feel free to clone it and change the message to whatever you like!
