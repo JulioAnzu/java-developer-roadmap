@@ -67,3 +67,32 @@ The idea is not only to learn Java syntax, but to progressively develop the skil
 ## 📈 Progress
 
 ### Java Fundamentals
+
+- [x] What is Java?
+- [ ] JDK, JRE & JVM
+- [ ] First Java Program
+- [ ] Variables
+- [ ] Data Types
+- [ ] Operators
+- [ ] Control Flow
+- [ ] Methods
+- [ ] Object-Oriented Programming
+
+---
+
+## 🛠️ Tools
+
+- Java
+- IntelliJ IDEA
+- Git
+- GitHub
+
+---
+
+## 📌 Status
+
+**Currently learning:** Java Fundamentals
+
+**Roadmap:** Java Developer
+
+**Repository status:** 🚧 In Progress
