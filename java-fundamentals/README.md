@@ -169,7 +169,9 @@ At this stage, the goal is simply to understand how to create and execute a basi
 The structure of **public static void main(String[] args)** 
 > 💡 **JAAC Note:** Inside the `examples/` directory, you will find the `FirstProgram.java` file. In that file, I modified the output message to a custom text ("La bebesita bebelín") to test and verify that our compiler execution works perfectly. Feel free to clone it and change the message to whatever you like!
 
-## 🧪 Final Challenge
+---
+
+## Final Challenge
 
 To complete the Java Fundamentals section, I created a simple console introduction program.
 
@@ -186,7 +188,7 @@ Create a program that displays a profile presentation in the console. You must m
 
 **Rule:** Try to solve it on your own first! Practice your spacing and alignment to match the template.
 
-#### 📋 Expected Output:
+#### Expected Output:
 ```text
 ========================================
          JAVA DEVELOPER ROADMAP
