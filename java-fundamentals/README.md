@@ -168,3 +168,48 @@ At this stage, the goal is simply to understand how to create and execute a basi
 
 The structure of **public static void main(String[] args)** 
 > 💡 **JAAC Note:** Inside the `examples/` directory, you will find the `FirstProgram.java` file. In that file, I modified the output message to a custom text ("La bebesita bebelín") to test and verify that our compiler execution works perfectly. Feel free to clone it and change the message to whatever you like!
+
+## 🧪 Final Challenge
+
+To complete the Java Fundamentals section, I created a simple console introduction program.
+
+The goal of this challenge was to practice:
+
+- Creating a Java class.
+- Using the `main` method.
+- Executing a Java program.
+- Printing information using `System.out.println()`.
+- Organizing console output.
+
+### 🎯 The Mission
+Create a program that displays a profile presentation in the console. You must match the spacing, empty lines, and alignment of the template below.
+
+**Rule:** Try to solve it on your own first! Practice your spacing and alignment to match the template.
+
+#### 📋 Expected Output:
+```text
+========================================
+         JAVA DEVELOPER ROADMAP
+========================================
+
+Welcome to my Java journey!
+
+Name: [Your Name Here]
+Current Level: Beginner
+Learning: Java Fundamentals
+
+Mission:
+Learn. Practice. Build. Repeat.
+
+Status: Java Fundamentals Completed ✓
+
+========================================
+   NEXT LEVEL: VARIABLES & DATA TYPES
+========================================
+```
+
+### 📂 Exercise Solution
+Try to write the code on your own first! Once you are done, or if you get stuck and want to verify your code, you can check the official solution here:
+
+File:
+`exercises/JavaFundamentalsChallenge.java`
