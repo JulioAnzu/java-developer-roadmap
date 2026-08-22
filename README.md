@@ -52,7 +52,7 @@ The idea is not only to learn Java syntax, but to progressively develop the skil
 ## 📈 Progress
 
 - [x] Java Fundamentals
-- [ ] Variables & Data Types
+- [x] Variables & Data Types
 - [ ] Operators
 - [ ] Control Flow
 - [ ] Methods
@@ -86,7 +86,7 @@ The idea is not only to learn Java syntax, but to progressively develop the skil
 
 ## 📌 Status
 
-**Currently learning:** Variables and Data Types
+**Currently learning:** Operators
 
 **Roadmap:** Java Developer
 
