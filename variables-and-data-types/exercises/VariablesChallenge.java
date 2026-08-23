@@ -29,6 +29,5 @@ public class VariablesChallenge {
         System.out.println(MAX_LEVEL);
         System.out.println(devID);
 
-
     }
 }

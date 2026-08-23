@@ -170,3 +170,57 @@ result = a + b; // Multi-variable workspace application (result is 15)
 ```
 
 *⚠️ **Best Practice:** While allowed, avoid overusing this for different concepts. Keeping declarations on separate lines makes your code cleaner and easier to comment.*
+
+### 📂 Operators Examples
+
+Inside the `examples/` directory, you will find dedicated Java files to study each operator group independently, along with a master file that contains everything combined:
+
+* `ArithmeticExample.java` -> Basic math calculations and integer division behavior.
+* `ConcatenationExample.java` -> Using the `+` operator to join text and evaluate order.
+* `IncrementDecrementExample.java` -> Deep dive into postfix (`lives++`) and prefix (`++lives`) execution styles.
+* `RelationalExample.java` -> Numerical comparisons that output `boolean` values.
+* `LogicalExample.java` -> Combining multiple conditions using `&&`, `||`, and `!`.
+* `OperatorsFullExample.java` -> **[Full Extended Guide]** A master file containing all the operators above, plus compound assignments (`+=`, `-=`) and advanced tools like the ternary operator.
+
+Feel free to clone them, modify the numbers, and analyze how Java executes each logic block!
+
+> 💡 **JAAC Note:** If you want a quick step-by-step learning process, open the individual files first. 
+> Once you feel comfortable with all concepts, check `OperatorsFullExample.java` to see how a complete real-world script integrates multiple operators simultaneously.
+
+---
+
+## Operators Challenge
+
+To complete the **Operators** section, you will create a simple checkout and stats calculator for a video game store.
+
+The goal of this challenge is to practice:
+* Using basic arithmetic operators (`-`, `/`) and compound assignment (`-=`).
+* Using relational (`>=`) and logical (`&&`) operators to evaluate game states.
+* Deep diving into postfix increment (`++`) inside console outputs.
+* Building clear, readable console reports utilizing text concatenation (`+`).
+
+### 🎯 The Mission
+Create a program that simulates a player buying a game from a digital store. It must calculate the final price after a discount, verify if the player can afford it, evaluate their remaining balance, and update their membership status.
+
+**Rule:** Try to solve it on your own first! Practice your spacing and alignment to match the template.
+
+#### Expected Output:
+```text
+=== VIDEO GAME SHOP SYSTEM ===
+/* Note: The comments below are only to guide you, they will not be printed */
+Final Game Price: 45      // int: Base price (60) minus discount (15) using -=
+Remaining Balance: 55     // int: Initial wallet (100) minus final price (45)
+Can Afford Game?: true    // boolean: walletBalance >= gamePrice
+Is Wallet Empty?: false   // boolean: remainingBalance == 0
+--- Membership Status ---
+Current Level: 1          // int: Prints level '1' using postfix (level++)
+Updated Level: 2          // int: Prints the newly updated level '2' in memory
+```
+
+### 📂 Exercise Solution
+Try to write the code on your own first! Once you are done, or if you get stuck and want to verify your code, you can check the official solution here:
+
+File:
+`exercises/OperatorsChallenge.java`
+
+

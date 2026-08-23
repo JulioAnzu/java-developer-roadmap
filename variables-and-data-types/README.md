@@ -254,7 +254,7 @@ Notice how we use **camelCase** for variables and **UPPERCASE** for constants. L
 
 ---
 
-## 🚀 Variables & Data Types Challenge
+## Variables & Data Types Challenge
 
 To complete the **Variables & Data Types** section, you will create a character profile for a video game.
 
